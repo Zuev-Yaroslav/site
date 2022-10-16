@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(235, 235, 235);
+    line-height: 1.5;
+    font-family: arial;
+}
+.quat
+{
+    height: 400px;
+    background-color: black;
+}
+h1
+{
+    color: blue;
+}
+h2
+{
+    color: red;
+}
+p
+{
+    font-size: 18px;
+}
+spisok
+{
+    list-style-type: square;
+}
