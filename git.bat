@@ -1,4 +1,4 @@
-cd C:\Users\zuevy\OneDrive\Рабочий стол\site
+//cd C:\Users\zuevy\OneDrive\Рабочий стол\site
 C:\Git\bin\git.exe init
 C:\Git\bin\git.exe add .
 C:\Git\bin\git.exe commit -m "FIRST"
